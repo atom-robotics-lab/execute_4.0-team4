@@ -1,6 +1,6 @@
-# RentSure - Rental Contract Generator & Analyzer
+# Rent.Ai - Rental Contract Generator & Analyzer
 
-RentSure is a React-based web application that allows users to create, analyze, and secure rental contracts. Users can generate legally compliant rental agreements or analyze existing contracts for potential issues, making the process fair, transparent, and efficient.
+Rent.Ai is a React-based web application that allows users to create, analyze, and secure rental contracts. Users can generate legally compliant rental agreements or analyze existing contracts for potential issues, making the process fair, transparent, and efficient.
 
 ## Features
 
@@ -18,7 +18,7 @@ RentSure is a React-based web application that allows users to create, analyze, 
 ```
 2. Navigate to the project directory:
 ```bash
-  cd RentSure
+  cd Rent.Ai
 ```
 3. Install dependencies:
 ```bash
