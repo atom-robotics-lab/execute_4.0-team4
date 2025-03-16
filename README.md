@@ -18,7 +18,7 @@ Rent.Ai is a React-based web application that allows users to create, analyze, a
 ```
 2. Navigate to the project directory:
 ```bash
-  cd Rent.Ai
+  cd RentAi
 ```
 3. Install dependencies:
 ```bash
